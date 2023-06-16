@@ -1,7 +1,7 @@
 package Bai1;
 
 public class ToaDo {
-	package bai1;
+	package Bai1;
 
 	public class bai1 {
 		private int x, y;
